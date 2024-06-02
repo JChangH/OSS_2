@@ -173,7 +173,7 @@ $ jobs -l
 $ jobs -p %v
 4908
 ```
-[출처](https://terms.naver.com/entry.naver?docId=4125682&cid=59321&categoryId=59321jobs "유닉스 리눅스 명령어 사전, 2010. 11. 30., 우종경, 박종오")
+[출처](https://terms.naver.com/entry.naver?docId=4125682&cid=59321&categoryId=59321 "유닉스 리눅스 명령어 사전, 2010. 11. 30., 우종경, 박종오")
 
 # kill
 
